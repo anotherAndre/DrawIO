@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T23:57:41.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="0cEDIjSDWTA4NqbdHOGo" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T00:00:50.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="sKSrh-KSGf9FHTOeeFb1" version="20.5.1" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="2703" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aLd-dvWk_ttVbl8NsbGz-3" value="Text Stream" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;spacingTop=-124;" vertex="1" parent="1">
+          <mxGeometry x="590" y="750" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aLd-dvWk_ttVbl8NsbGz-2" value="Vision Stream" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=-270;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="660" height="295" as="geometry" />
+        </mxCell>
         <mxCell id="W3PR4H2m5siLkuPCGeLN-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.006;exitY=0.326;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="W3PR4H2m5siLkuPCGeLN-231" target="W3PR4H2m5siLkuPCGeLN-236" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
