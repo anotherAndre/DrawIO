@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.9">
   <diagram name="Page-1" id="PMKdJ6SHysu0mCbQxmNa">
     <mxGraphModel dx="3052" dy="2638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,14 +143,14 @@
         <mxCell id="INPc3uI3xBPr1Q4v6FXO-46" value="Service 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sC5BLn2r3QduW4_Cs3k5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="INPc3uI3xBPr1Q4v6FXO-32" target="INPc3uI3xBPr1Q4v6FXO-42">
+        <mxCell id="sC5BLn2r3QduW4_Cs3k5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="INPc3uI3xBPr1Q4v6FXO-32" target="INPc3uI3xBPr1Q4v6FXO-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sC5BLn2r3QduW4_Cs3k5-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/2560px-Kubernetes_logo.svg.png;" vertex="1" parent="1">
+        <mxCell id="sC5BLn2r3QduW4_Cs3k5-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/2560px-Kubernetes_logo.svg.png;" parent="1" vertex="1">
           <mxGeometry x="396.25" y="40" width="267.5" height="47.26" as="geometry" />
         </mxCell>
       </root>
